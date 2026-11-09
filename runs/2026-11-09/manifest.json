@@ -1,0 +1,102 @@
+{
+  "generated_at": "2026-11-09T22:19:41Z",
+  "lists": [
+    {
+      "code": "OFAC",
+      "title": "OFAC Specially Designated Nationals (SDN) list",
+      "url": "https://sanctionslistservice.ofac.treas.gov/api/publicationpreview/exports/sdn.xml",
+      "ok": true,
+      "downloaded_at": "2026-11-09T21:59:19Z",
+      "sha256": "329a9b9c6e554518639e979c28c6867d00b72b4175352dd8869766092bb3ed0c",
+      "bytes": 29555843,
+      "entries": 19563
+    },
+    {
+      "code": "OFAC-CONS",
+      "title": "OFAC Consolidated Sanctions List (the non-SDN lists)",
+      "url": "https://sanctionslistservice.ofac.treas.gov/api/publicationpreview/exports/consolidated.xml",
+      "ok": true,
+      "downloaded_at": "2026-11-09T21:59:43Z",
+      "sha256": "e5d79f7882910b6efce71c682c3983c9fe6179d91427e3d47d9a829283cc5625",
+      "bytes": 1078429,
+      "entries": 486
+    },
+    {
+      "code": "CSL",
+      "title": "US Consolidated Screening List: its Commerce and State lists",
+      "url": "https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",
+      "ok": true,
+      "downloaded_at": "2026-11-09T22:04:01Z",
+      "sha256": "32022b67eebc565dd27d2b05a2143a9c97eabf595d4e26198169b3125addaf90",
+      "bytes": 16953220,
+      "entries": 6213
+    },
+    {
+      "code": "UN",
+      "title": "UN Security Council Consolidated List",
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "ok": true,
+      "downloaded_at": "2026-11-09T22:05:02Z",
+      "sha256": "a61ed5984d9139e968a5a747b2c8c3479a0d537ed344bd670c41db458163bc1b",
+      "bytes": 2177566,
+      "entries": 1007
+    },
+    {
+      "code": "EU",
+      "title": "EU Financial Sanctions Files (FSF), XML 1.1",
+      "url": "https://webgate.ec.europa.eu/fsd/fsf/public/files/xmlFullSanctionsList_1_1/content?token=dG9rZW4tMjAxNw",
+      "ok": false,
+      "error": "ConnectionResetError: [Errno 54] Connection reset by peer"
+    },
+    {
+      "code": "UK",
+      "title": "UK Sanctions List (FCDO)",
+      "url": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.xml",
+      "ok": true,
+      "downloaded_at": "2026-11-09T22:13:15Z",
+      "sha256": "b9edf715b3eae03c5e6ea0f6e060ebb19a6b3ebba06d6b98d038f5d12376d4ab",
+      "bytes": 22084218,
+      "entries": 6420
+    },
+    {
+      "code": "EU-VESSELS",
+      "title": "EU designated vessels: Annex XLII of Regulation (EU) No 833/2014",
+      "url": "https://publications.europa.eu/resource/celex/02014R0833-20260724",
+      "ok": true,
+      "downloaded_at": "2026-11-09T22:14:12Z",
+      "sha256": "2682ecf3442d2f16a3b36ef4d9bbb6fde43fd4d6743bcd991bd4a8e14857770b",
+      "bytes": 10349814,
+      "entries": 672
+    },
+    {
+      "code": "AU",
+      "title": "Australian Sanctions Consolidated List (DFAT)",
+      "url": "https://www.dfat.gov.au/sites/default/files/Australian_Sanctions_Consolidated_List.xlsx",
+      "ok": true,
+      "downloaded_at": "2026-11-09T22:14:34Z",
+      "sha256": "3cd81b966b781b957cc89d9543d60bd7cecc7b8e2c694b1c421b7807afa1c3f6",
+      "bytes": 1346195,
+      "entries": 4015
+    },
+    {
+      "code": "CA",
+      "title": "Canada Consolidated Autonomous Sanctions List (SEMA)",
+      "url": "https://www.international.gc.ca/world-monde/assets/office_docs/international_relations-relations_internationales/sanctions/sema-lmes.xml",
+      "ok": true,
+      "downloaded_at": "2026-11-09T22:18:04Z",
+      "sha256": "d44c33444e0a10f0166e4b962ed7abc42582aa1678768cafd352bcf0740035b4",
+      "bytes": 2918344,
+      "entries": 5770
+    },
+    {
+      "code": "NZ",
+      "title": "New Zealand Russia Sanctions Register (MFAT)",
+      "url": "https://www.mfat.govt.nz/assets/Countries-and-Regions/Europe/Ukraine/Russia-Sanctions-Register.xlsx",
+      "ok": true,
+      "downloaded_at": "2026-11-09T22:19:20Z",
+      "sha256": "d5ae6f2c18163c8045689338fb961977c61e12a64dd97f60ae9c31d6b89057f0",
+      "bytes": 21646206,
+      "entries": 2135
+    }
+  ]
+}

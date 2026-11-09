@@ -1,0 +1,105 @@
+{
+  "generated_at": "2026-11-09T21:45:49Z",
+  "lists": [
+    {
+      "code": "OFAC",
+      "title": "OFAC Specially Designated Nationals (SDN) list",
+      "url": "https://sanctionslistservice.ofac.treas.gov/api/publicationpreview/exports/sdn.xml",
+      "ok": true,
+      "downloaded_at": "2026-11-04T20:42:42Z",
+      "sha256": "680918f606621a6e78fef3ba014a1c8c01e4b96df265d162de5792b1d26ed228",
+      "bytes": 29468632,
+      "entries": 19499
+    },
+    {
+      "code": "OFAC-CONS",
+      "title": "OFAC Consolidated Sanctions List (the non-SDN lists)",
+      "url": "https://sanctionslistservice.ofac.treas.gov/api/publicationpreview/exports/consolidated.xml",
+      "ok": true,
+      "downloaded_at": "2026-11-04T20:42:48Z",
+      "sha256": "efb01e211c76faa951fb9b2d86c22f6a9621dc653d71a298b67340764a4c0f22",
+      "bytes": 1078429,
+      "entries": 486
+    },
+    {
+      "code": "CSL",
+      "title": "US Consolidated Screening List: its Commerce and State lists",
+      "url": "https://data.trade.gov/downloadable_consolidated_screening_list/v1/consolidated.csv",
+      "ok": true,
+      "downloaded_at": "2026-11-04T20:43:21Z",
+      "sha256": "f2f33a4f8f1519ae5792e203522dbc09299166805935e24090d2585fb5ff7964",
+      "bytes": 16913082,
+      "entries": 6213
+    },
+    {
+      "code": "UN",
+      "title": "UN Security Council Consolidated List",
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "ok": true,
+      "downloaded_at": "2026-11-04T20:43:27Z",
+      "sha256": "a180ec5beb4733a7d113fe70c3c04a8b863a9d27ab4dd3add850e0e7db0c00f5",
+      "bytes": 2177571,
+      "entries": 1007
+    },
+    {
+      "code": "EU",
+      "title": "EU Financial Sanctions Files (FSF), XML 1.1",
+      "url": "https://webgate.ec.europa.eu/fsd/fsf/public/files/xmlFullSanctionsList_1_1/content?token=dG9rZW4tMjAxNw",
+      "ok": true,
+      "downloaded_at": "2026-11-04T20:43:37Z",
+      "sha256": "636800c3e494b2ef8934f51f5e23c914a6208a383ac850e674b1b35a7d49d34f",
+      "bytes": 25899600,
+      "entries": 6269
+    },
+    {
+      "code": "UK",
+      "title": "UK Sanctions List (FCDO)",
+      "url": "https://sanctionslist.fcdo.gov.uk/docs/UK-Sanctions-List.xml",
+      "ok": true,
+      "downloaded_at": "2026-11-04T20:44:19Z",
+      "sha256": "b9edf715b3eae03c5e6ea0f6e060ebb19a6b3ebba06d6b98d038f5d12376d4ab",
+      "bytes": 22084218,
+      "entries": 6420
+    },
+    {
+      "code": "EU-VESSELS",
+      "title": "EU designated vessels: Annex XLII of Regulation (EU) No 833/2014",
+      "url": "https://publications.europa.eu/resource/celex/02014R0833-20260724",
+      "ok": true,
+      "downloaded_at": "2026-11-04T20:44:26Z",
+      "sha256": "2682ecf3442d2f16a3b36ef4d9bbb6fde43fd4d6743bcd991bd4a8e14857770b",
+      "bytes": 10349814,
+      "entries": 672
+    },
+    {
+      "code": "AU",
+      "title": "Australian Sanctions Consolidated List (DFAT)",
+      "url": "https://www.dfat.gov.au/sites/default/files/Australian_Sanctions_Consolidated_List.xlsx",
+      "ok": true,
+      "downloaded_at": "2026-11-04T20:44:41Z",
+      "sha256": "3cd81b966b781b957cc89d9543d60bd7cecc7b8e2c694b1c421b7807afa1c3f6",
+      "bytes": 1346195,
+      "entries": 4015
+    },
+    {
+      "code": "CA",
+      "title": "Canada Consolidated Autonomous Sanctions List (SEMA)",
+      "url": "https://www.international.gc.ca/world-monde/assets/office_docs/international_relations-relations_internationales/sanctions/sema-lmes.xml",
+      "ok": true,
+      "downloaded_at": "2026-11-04T20:44:44Z",
+      "sha256": "61a9064720d9f35884ead9387158b708882d63c615981034cb9557d038d55bcf",
+      "bytes": 2891117,
+      "entries": 5708
+    },
+    {
+      "code": "NZ",
+      "title": "New Zealand Russia Sanctions Register (MFAT)",
+      "url": "https://www.mfat.govt.nz/assets/Countries-and-Regions/Europe/Ukraine/Russia-Sanctions-Register.xlsx",
+      "ok": true,
+      "downloaded_at": "2026-11-04T20:45:41Z",
+      "sha256": "d5ae6f2c18163c8045689338fb961977c61e12a64dd97f60ae9c31d6b89057f0",
+      "bytes": 21646206,
+      "entries": 2135
+    }
+  ]
+}
